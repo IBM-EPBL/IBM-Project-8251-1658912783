@@ -10,3 +10,4 @@ Real-Time River Water Quality Monitoring and Control System
 
 [Project Design Phase-II](https://github.com/IBM-EPBL/IBM-Project-8251-1658912783/tree/main/Project_Design_and%20_Planning/Project%20Design%20Phase%20II)
 
+[Project Planning](https://github.com/IBM-EPBL/IBM-Project-8251-1658912783/tree/main/Project_Design_and%20_Planning/Project%20Planning)
