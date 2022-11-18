@@ -46,12 +46,12 @@ while True:
         info="harmfull to drink"
         message = client.messages.create(from_='+14632588702',
                                          body ='This water is harmfull to drink',
-                                         to ='+91 95856 17613')
+                                         to ='+91 95856 XXXXX')
     else:
         info="capable to drinking"
         message = client.messages.create(from_='+14632588702',
                                          body ='This water is good to drink',
-                                         to ='+91 95856 17613')
+                                         to ='+91 95856 XXXXX')
     data = {'pH': pH, 'turbid': turbidity,'temp': temperature,'info':info}
 
 
